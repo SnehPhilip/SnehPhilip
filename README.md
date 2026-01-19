@@ -1,4 +1,4 @@
-<!--Here are some ideas to get you started:
+<!--Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,13 +20,16 @@ This passionate developer  journey is transitioning into the world of AI ... A j
 
 Here is a "A trail of my progress" .
 
-## 💡 My Philosophy **"Benefiting from AI is magical; building it is not that magical! "**
-- ⚡ Fun fact: ...I am learning Machine Learning...!
+## 💡 My Philosophy 
 
-Stations on ### 🛤️ The AI Roadmap !
+- ⚡ Trial fact: **"Benefiting from AI seems  magic ; Building it is not that magical !! "**
 
-- Focus on the 'why' and 'how' behind the model.
-- Learning beyond the interface.To understand the data pipelines, the mathematical foundations, and the rigorous engineering required to make AI reliable, ethical, and performant.
+- ⚡ Fun fact: to unveil the show - Learn - Machine Learning.
+
+### 🛤️ Stations on The AI Roadmap !
+
+- Focus on the 'why' and 'how' behind the model.Learn beyond the interface.
+- To understand the data pipelines, the mathematical foundations, and the rigorous engineering required to make AI reliable, ethical, and performant.
 
 - 🚉 **Station 1: Foundations** - Mastering Python, Data Structures, and SQL.
 - 🚋 **Station 2: Data Exploration** - Diving into Pandas, NumPy, and the art of EDA.
