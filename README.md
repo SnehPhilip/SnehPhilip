@@ -12,32 +12,32 @@
 
 ## Hi there I'm Sneh👋
 
-### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Blogger
+### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Content Writer
 
-I'm a **Development Enthusiast**  who loves building things out of all the theory around.
+Sighted at building things out of the theory floating around ! 💡
 
-This passionate developer  journey is transitioning into the world of AI ... A journey from "building apps" to "building intelligence." !
+This passionate developer journey is transitioning into the world of AI .. a journey from "building apps" to "building intelligence." 
 
-Here is a "A trail of my progress" .
+Here is a "A trail of my progress" 
 
 ## 💡 My Philosophy 
 
-- ⚡ Trial fact: **"Benefiting from AI seems  magic ; Building it is not that magical !! "**
+- Trial fact:⚡  **"Benefiting from AI seems  magic ; But building it is not that magical "**
 
-- ⚡ Fun fact: to unveil the show - Learn - Machine Learning.
+- Fun fact: ⚡ to unveil the show - **Learn - Machine - Learning**
 
-### 🛤️ Stations on The AI Roadmap !
+### 🛤️ Stations on The AI Roadmap 
 
-- Focus on the 'why' and 'how' behind the model.Learn beyond the interface.
-- To understand the data pipelines, the mathematical foundations, and the rigorous engineering required to make AI reliable, ethical, and performant.
+- Focus on the 'why' and 'how' behind the model. Learn beyond the interface.
 
-- 🚉 **Station 1: Foundations** - Mastering Python, Data Structures, and SQL.
-- 🚋 **Station 2: Data Exploration** - Diving into Pandas, NumPy, and the art of EDA.
-- 🏎️ **Station 3: Machine Learning** - Training Scikit-Learn models and understanding optimization.
+- 🚉 **Station 1: Foundations** - :
+-                                  Math Foundations :-  To understand the the rigorous engineering required to make AI reliable, ethical, and performant.
+-                                  Implementation Foundations :- Mastering Python, Data Structures, diving into Pandas, NumPy, and the art of EDA ,model building and enhancement
+-                                                                
+- 🏎️ **Station 2: Machine Learning** - :
+-                                   Training Scikit-Learn models and understanding optimization.
 
-- 
-
-
-- 🚀 **Next Stop: Deep Learning & LLMs** - Exploring Neural Networks and Generative AI.
+- 🚀 **Station 3: Deep Learning & LLMs** - :
+-                                   Exploring Neural Networks and Generative AI.
 
 
