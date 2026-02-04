@@ -14,7 +14,7 @@
 
 ### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Content Writer
 
-Sighted at building things out of the theory floating around ! 💡
+Sighted at building things out of the theory floating around ! 🖥️ 
 
 This passionate developer journey is transitioning into the world of AI .. a journey from "building apps" to "building intelligence." 
 
@@ -22,7 +22,7 @@ Here is a "A trail of my progress"
 
 ## 💡 My Philosophy 
 
-- Trial fact:⚡  **"Benefiting from AI seems  magic ; But building it is not that magical "**
+- Trial fact:⚡  **"Benefiting from AI seems  magical ; Building it is NOT MAGIC ! "**
 
 - Fun fact: ⚡ to unveil the show - **Learn - Machine - Learning**
 
