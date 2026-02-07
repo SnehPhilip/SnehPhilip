@@ -10,7 +10,7 @@
 
 -->
 
-## Hi there I'm Sneh👋
+## Hi there, I'm Sneh👋
 
 # Software Developer & AI Engineer
 
