@@ -14,7 +14,7 @@
 
 # Software Developer & AI Engineer
 
-Actively Developing and Specialized in Deep Learning , LLMs & RAG | Python • J2EE • JavaScript  | Distributed Agile Methodologies | Building Scalable, Intelligence-Driven Applications | Proven Proficiency in  Web App Development
+Actively developing and specialized in Deep Learning , LLMs & RAG | Python • J2EE • JavaScript  | Distributed Agile Methodologies | Building Scalable, Intelligence-Driven Applications | Proven Proficiency in  Web App Development
 
 ## The  "building intelligence" journey 
 
