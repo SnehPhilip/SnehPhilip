@@ -12,13 +12,11 @@
 
 ## Hi there I'm Sneh👋
 
-### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Content Writer
+# Software Developer & AI Engineer
 
-Sighted at building things out of the theory floating around ! 🖥️ 
+Actively Developing and Specialized in Deep Learning , LLMs & RAG | Python • J2EE • JavaScript  | Distributed Agile Methodologies | Building Scalable, Intelligence-Driven Applications | Proven Proficiency in  Web App Development
 
-This passionate developer journey is transitioning into the world of AI .. a journey from "building apps" to "building intelligence." 
-
-Here is a "A trail of my progress" 
+## The  "building intelligence" journey 
 
 ## 💡 My Philosophy 
 
@@ -26,18 +24,15 @@ Here is a "A trail of my progress"
 
 - Fun fact: ⚡ to unveil the show - **Learn - Machine - Learning**
 
-### 🛤️ Stations on The AI Roadmap 
+### 🛤️ Stations on The AI Roadmap | "A trail of my progress" 
 
-- Focus on the 'why' and 'how' behind the model. Learn beyond the interface.
+- Focus on the 'why' and 'how' behind the model. Learning beyond the interface.
 
-- 🚉 **Station 1: Foundations** - :
--                                  Math Foundations :-  To understand the the rigorous engineering required to make AI reliable, ethical, and performant.
--                                  Implementation Foundations :- Mastering Python, Data Structures, diving into Pandas, NumPy, and the art of EDA ,model building and enhancement
--                                                                
-- 🏎️ **Station 2: Machine Learning** - :
+- 🚉 station 1: **Machine Learning** - :
 -                                   Training Scikit-Learn models and understanding optimization.
-
-- 🚀 **Station 3: Deep Learning & LLMs** - :
+-                                   Mastering Python, Data Structures, diving into Pandas, NumPy, and the art of EDA ,model building and enhancement
+-                                                               
+- 🏎️ **station 2: Deep Learning & LLMs** - :
 -                                   Exploring Neural Networks and Generative AI.
 
 
