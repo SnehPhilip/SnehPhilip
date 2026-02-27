@@ -1,3 +1,6 @@
+
+
+
 <!--Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
@@ -10,29 +13,30 @@
 
 -->
 
-## Hi there, I'm Sneh👋
+## Hi there, I'm Sneh :wave:
+Sighted @ grounding high-level theory into tangible builds.
 
-# Software Developer & AI Engineer
+## J2EE ,Python Developer |  now @ **AI Engineering** | Open Source Enthusiast 
 
-Actively developing and specialized in Deep Learning , LLMs & RAG | Python • J2EE • JavaScript  | Distributed Agile Methodologies | Building Scalable, Intelligence-Driven Applications | Proven Proficiency in  Web App Development
+A passionate Developer journey transitioning into the world of AI .
 
 ## The  "building intelligence" journey 
 
-## 💡 My Philosophy 
+## 💡 Philosophy 
 
-- Trial fact:⚡  **"Benefiting from AI seems  magical ; Building it is NOT MAGIC ! "**
+- ⚡  **"Benefiting from AI manifests as magical ; Building it is NOT MAGIC ! "**
 
 - Fun fact: ⚡ to unveil the show - **Learn - Machine - Learning**
 
-### 🛤️ Stations on The AI Roadmap | "A trail of my progress" 
-
 - Focus on the 'why' and 'how' behind the model. Learning beyond the interface.
 
-- 🚉 station 1: **Machine Learning** - :
--                                   Training Scikit-Learn models and understanding optimization.
--                                   Mastering Python, Data Structures, diving into Pandas, NumPy, and the art of EDA ,model building and enhancement
+### AI Roadmap | A trail of my progress 
+
+**Machine Learning** - :
+-                       Training Scikit-Learn models and understanding optimization.
+-                       Mastering Python, Data Structures, diving into Pandas, NumPy, and the art of EDA ,model building and enhancement
 -                                                               
-- 🏎️ **station 2: Deep Learning & LLMs** - :
--                                   Exploring Neural Networks and Generative AI.
+**Deep Learning & LLMs** - :
+-                       Exploring Neural Networks and Generative AI.
 
 
