@@ -13,16 +13,17 @@
 
 -->
 
-## Hi there, I'm Sneh :wave:
-Sighted @ grounding high-level theory into tangible builds.
-
 ## J2EE ,Python Developer |  now @ **AI Engineering** | Open Source Enthusiast 
 
-A passionate Developer journey transitioning into the world of AI .
+### Hi there, I'm Sneh :wave:
+### Sighted @ grounding high-level theory into tangible builds.
 
-## The  "building intelligence" journey 
 
-## 💡 Philosophy 
+A passionate Developer journey transitioning into the world of AI ...
+
+## 
+##  The  "building intelligence" journey 💡 Philosophy 
+ 
 
 - ⚡  **"Benefiting from AI manifests as magical ; Building it is NOT MAGIC ! "**
 
